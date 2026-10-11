@@ -1,0 +1,25 @@
+# Archivos temporales de Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Archivos del editor
+.vscode/
+.vs/
+.idea/
+
+# Archivos generados automáticamente
+*.csproj
+*.sln
+*.suo
+*.user
+*.tmp
+*.log
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
